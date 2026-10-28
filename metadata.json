@@ -1,0 +1,6 @@
+{
+  "name": "A Letter For Himuu",
+  "description": "A soft, romantic, five-page love story and surprise letter delivered by a tiny bird for Himuu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
